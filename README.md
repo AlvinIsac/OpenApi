@@ -61,6 +61,4 @@ Ensure you have the following installed:
 - `temperature`: Controls response creativity (default: 0.7).
 - `max_tokens`: Sets the maximum length of responses (default: 100 tokens).
 
----
 
-This `README.md` includes all relevant details for users to set up and interact with your project effectively. Let me know if there's anything more you'd like to add!
