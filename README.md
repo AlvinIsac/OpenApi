@@ -40,10 +40,10 @@ Ensure you have the following installed:
 4. Create a `.env` file in the project directory and add your OpenAI API key:
 
    ```env
-   OPENAI_API_KEY=sk-proj-DYqEnmc8k0RVHIC6xe8ZqvJzKHaNArMGy0cidt9LtDOav7mQ7ZxTprwpvzk1y369PtPssIf-IO T3BlbkFJQYetvcgrpzQXHUoceHoYTxa_dNo9qenFQ90ILzBWwdluEaPCHncw0L-y7e4NDQiWK1Oj3De6cA
+   OPENAI_API_KEY= <open_api_key>
    ```
 
-   **Note**: If the provided key is not working, you can purchase a new one from [OpenAI's Platform](https://platform.openai.com/docs/overview).
+   **Note**: You can purchase a new one from [OpenAI's Platform](https://platform.openai.com/docs/overview).
 
 ## Usage
 
